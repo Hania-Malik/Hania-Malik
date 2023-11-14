@@ -8,4 +8,4 @@ I love to talk about trending ⚡ technology ⚡, I have a huge attraction on �
 - 🚀 I use daily: **JavaScript**, **Python**, **Git**, **Bash**, **VS Code**
 - 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
-<img src="https://github.com/Hania-Malik/Hania-Malik/blob/main/me.png" />
+<img align="center" src="https://github.com/Hania-Malik/Hania-Malik/blob/main/me.png" />
