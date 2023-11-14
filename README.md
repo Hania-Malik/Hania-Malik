@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Hania-Malik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋
 
-<!---
-Hania-Malik/Hania-Malik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Hania-Malik&left_color=green&right_color=red)
+I love to talk about trending ⚡ technology ⚡, I have a huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here
+
+- 🏢 I'm currently working at **Worklife**
+- 🚀 I use daily: **JavaScript**, **Python**, **Git**, **Bash**, **VS Code**
+- 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**
+- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+
